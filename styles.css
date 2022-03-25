@@ -266,8 +266,7 @@ footer {
 
     [aria-controls="menu-list"] {
         display: inline-block;
-        /* margin-top: 30px; */
-        margin-top: 3rem;
+        margin-top: 30px;
     }
 
     [aria-expanded="true"] ~ ul {
@@ -297,10 +296,6 @@ footer {
         background-color: #282828;
         padding: .25rem;
         border-radius: 5px;
-    }
-
-    button:hover {
-        color: #999;
     }
 
     .team-container {
